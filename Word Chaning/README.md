@@ -5,5 +5,5 @@
 
 ### Run test:
 ```sh
-    gcc test.c -o test && ./test input.txt
+    $ gcc test.c -o test && ./test input.txt
 ```
